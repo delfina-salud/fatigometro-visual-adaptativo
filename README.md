@@ -21,6 +21,10 @@ MBI-HSS (Maslach Burnout Inventory)
 
 Cada nivel de fatiga activa un protocolo de intervención adaptativa, empática y profesional, con el objetivo de prevenir el burnout antes de que se cronifique.
 
+Consulta el documento complementario con la lógica detallada de puntuación y niveles de alerta:
+➡️ [logica_puntuacion.pdf](./logica_puntuacion.pdf)
+
+
 ## Tecnologías utilizadas
 
 - Streamlit
