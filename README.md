@@ -24,6 +24,10 @@ Cada nivel de fatiga activa un protocolo de intervención adaptativa, empática 
 Consulta el documento complementario con la lógica detallada de puntuación y niveles de alerta:
 ➡️ [logica_puntuacion.pdf](./logica_puntuacion.pdf)
 
+Para consultar cómo se relaciona el IFF con escalas clínicas reconocidas, accede a la tabla de equivalencia:
+➡️ [tablas_equivalencia_escalas.pdf](./tablas_equivalencia_escalas.pdf)
+
+
 
 ## Tecnologías utilizadas
 
