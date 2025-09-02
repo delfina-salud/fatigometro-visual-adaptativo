@@ -1,0 +1,159 @@
+{
+    "IFF_0_1": {
+        "nivel": "Estado óptimo",
+        "mensajes_largos": [
+            "Tu nivel de energía es bueno. Aprovechá este momento para reforzar tus hábitos de autocuidado, no desde la exigencia, sino desde el disfrute.",
+            "Hoy estás funcionando en un buen nivel. Recordá que sostener este equilibrio requiere pausas, no solo acción.",
+            "Todo indica que estás bien regulada. Escuchá ese bienestar y usalo como brújula para tomar decisiones alineadas.",
+            "Estás en un momento de buen funcionamiento. Este es el terreno fértil donde sembrar hábitos que te sostengan incluso cuando todo se vuelva más exigente.",
+            "El bienestar no siempre grita, a veces susurra. Si hoy te sentís bien, escuchá también eso. Es una forma de sabiduría corporal."
+        ],
+        "mensajes_cortos": [
+            "Seguís bien. Sostené lo que te hace bien.",
+            "Tu nivel de energía es saludable.",
+            "Hoy estás en equilibrio. Cuidalo.",
+            "Buen momento para agradecer.",
+            "El cuerpo responde bien cuando es escuchado.",
+            "Estás bien. Es una buena señal."
+        ],
+        "microacciones": [
+            "Hacé una pausa consciente de 5 minutos, solo para agradecer.",
+            "Preguntate: ¿qué hábito de hoy me gustaría repetir mañana?",
+            "Anotá una cosa que haya funcionado hoy.",
+            "Regalate un momento de disfrute sin pantalla.",
+            "Compartí con alguien una pequeña alegría del día."
+        ],
+        "objetivo_terapeutico": "Reforzar hábitos positivos, consolidar bienestar sin presión."
+    },
+    "IFF_2": {
+        "nivel": "Fatiga leve",
+        "mensajes_largos": [
+            "Hay señales tempranas de fatiga. Es buen momento para revisar tu día y permitirte pequeños ajustes antes de que se acumulen.",
+            "Tu cuerpo empieza a mostrar pequeñas alertas. No es grave, pero sí importante. Escuchalo sin juzgar.",
+            "Si lo notás ahora, podés cuidarte antes de que escale. Ese es el poder de la prevención.",
+            "No hace falta esperar a estar exhausta para frenar. Esta pequeña alerta es una puerta abierta para el cuidado.",
+            "El cuerpo tiene maneras sutiles de hablarte. Hoy, el mensaje es claro: algo necesita espacio, algo necesita pausa."
+        ],
+        "mensajes_cortos": [
+            "Microfatiga presente. Vale una pausa.",
+            "Pequeñas señales, grandes oportunidades de ajuste.",
+            "Revisá tu ritmo, no tu valor.",
+            "Un cambio a tiempo es cuidado."
+        ],
+        "microacciones": [
+            "Estirate durante 3 minutos.",
+            "Hidratate con atención.",
+            "Cancelá una microtarea que no sea esencial.",
+            "Respirá profundamente tres veces.",
+            "Elegí una sola cosa que pueda esperar."
+        ],
+        "objetivo_terapeutico": "Prevención. Ajuste leve de hábitos antes de escalar."
+    }
+}
+{
+    "IFF_3": {
+        "nivel": "Fatiga moderada (incipiente)",
+        "mensajes_largos": [
+            "Tu cuerpo empieza a mostrar signos más marcados de fatiga. No llegaste hasta acá de golpe. Es momento de frenar antes de que esta curva siga subiendo.",
+            "Sentirse drenada no es una falla: es una señal. Prestá atención a lo que estás sosteniendo por inercia.",
+            "La energía que falta hoy quizá se usó para sostener cosas que ya no son prioridad. Vale la pena revisar.",
+            "Cuando la energía empieza a escasear, lo importante es reorganizar con amabilidad, no resistir con rigidez.",
+            "Estás a tiempo de evitar un bajón mayor. No necesitas rendir más, sino sostenerte mejor."
+        ],
+        "mensajes_cortos": [
+            "La fatiga empieza a marcar el ritmo.",
+            "El cuerpo avisa: hora de recalibrar.",
+            "No lo empujes más. Regulá.",
+            "Necesitás suavizar el paso.",
+            "Hay señales. Escuchalas ahora."
+        ],
+        "microacciones": [
+            "Hacé una pausa real de 10 a 15 minutos, sin multitarea.",
+            "Identificá una actividad que puedas simplificar.",
+            "Desactivá notificaciones por 1 hora.",
+            "Estirate lento, con respiración sincronizada.",
+            "Permitite cambiar de entorno si podés (otra habitación, luz natural, ventana abierta)."
+        ],
+        "objetivo_terapeutico": "Detener la progresión. Invitar a la autorregulación con pequeños cambios. Desactivar automatismos."
+    }
+}
+{
+    "IFF_4": {
+        "nivel": "Fatiga moderada (instalada)",
+        "mensajes_largos": [
+            "Tu cuerpo está funcionando en un estado de gasto sostenido. No es solo cansancio: es acumulación. Ya no se resuelve con una pausa breve.",
+            "Esta fatiga empieza a afectar tu capacidad de decisión y tu claridad. No es pereza: es saturación de bajo grado.",
+            "Estás manteniéndote a costa de tu energía basal. No estás fallando, pero sí estás al límite de lo razonable.",
+            "El cansancio ya no es algo que aparece al final del día: está acompañándote. Es hora de ajustar más fuerte.",
+            "Estás haciendo más de lo que tu cuerpo puede sostener con salud. No sigas exigiendo sin revisar qué podés soltar."
+        ],
+        "mensajes_cortos": [
+            "Fatiga sostenida. No sigas igual.",
+            "Estás agotando reservas.",
+            "Necesitás más que un descanso corto.",
+            "El cuerpo se está defendiendo.",
+            "Ya no es solo cansancio. Es carga real."
+        ],
+        "microacciones": [
+            "Cancelá una tarea que ya no tenga sentido inmediato.",
+            "Escribí tres cosas que podrías delegar o simplificar.",
+            "Agendá un cambio estructural en tus rutinas para mañana.",
+            "Cambiá postura y hacé 3 minutos de respiración profunda.",
+            "Evaluá si necesitás ayuda para sostener tu día."
+        ],
+        "objetivo_terapeutico": "Evitar escalada al agotamiento. Romper con el ritmo crónico. Establecer límites internos."
+    }
+}{
+    "IFF_5": {
+        "nivel": "Fatiga alta con deterioro funcional",
+        "mensajes_largos": [
+            "Hoy tu nivel de energía está seriamente comprometido. Seguir con la rutina habitual puede ser contraproducente.",
+            "No estás en condiciones óptimas para tomar decisiones importantes. El cansancio está interfiriendo con tu criterio.",
+            "Necesitás soltar peso ahora. No mañana. Las consecuencias de sostener esta carga pueden ser altas.",
+            "El cuerpo y la mente están pidiendo una detención estructural. No es negociable si querés cuidarte de verdad.",
+            "No estás frágil: estás sobresaturada. Es un estado que requiere contención, no más esfuerzo."
+        ],
+        "mensajes_cortos": [
+            "Detenete. Es urgente descansar.",
+            "Este nivel de fatiga no se empuja: se atiende.",
+            "Cuidarte hoy es prevenir un colapso.",
+            "Tu sistema está agotado. Actuá en consecuencia.",
+            "Todo puede esperar. Vos no."
+        ],
+        "microacciones": [
+            "Apagá pantalla por 1 hora.",
+            "Comunicá tu estado a una persona de confianza.",
+            "Postergá tareas sin justificarte.",
+            "Tomá líquido + proteína suave.",
+            "Aislá los estímulos (sonido, luz, presión social)."
+        ],
+        "objetivo_terapeutico": "Poner freno total. Aceptar límites fisiológicos. Recuperar el control básico del entorno."
+    }
+}
+{
+    "IFF_6": {
+        "nivel": "Fatiga extrema / pre-colapso",
+        "mensajes_largos": [
+            "Estás en un estado de sobrecarga crítica. Este nivel de fatiga requiere descanso profundo, sin estímulo, sin presión, sin productividad.",
+            "Lo que sentís ahora no es desproporcionado. Es el cuerpo diciendo ‘basta’. No sigas interpretando esto como un fallo personal.",
+            "El sistema ya no puede regularse solo. Necesitás detenerte, respirar, recuperar el sentido de lo mínimo.",
+            "Este no es un mal día. Es una señal de que tu forma de sostener lo insostenible llegó a un punto límite.",
+            "No te habita una emoción exagerada: te habita el cuerpo en su última alerta. Ahora solo importa cuidarte."
+        ],
+        "mensajes_cortos": [
+            "Estás colapsando. Es momento de protegerte.",
+            "Nada es más importante que tu descanso ahora.",
+            "Te toca bajar el telón por hoy.",
+            "Cuidate como si fueras irremplazable. Porque lo sos.",
+            "El cuerpo se apagó para que pares. Escuchalo."
+        ],
+        "microacciones": [
+            "Acostate o sentate en silencio, aunque sea 15 minutos.",
+            "Apagá toda estimulación. Ponete música neutra o silencio total.",
+            "Avisá que necesitás parar. No expliques.",
+            "Respirá lentamente con ojos cerrados.",
+            "Si esto se repite seguido, buscá ayuda externa."
+        ],
+        "objetivo_terapeutico": "Desactivación completa. Detención compasiva. Validación del colapso. Activación de redes de sostén si es necesario."
+    }
+}
